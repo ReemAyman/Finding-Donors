@@ -6,6 +6,7 @@ There are three models used to train the data. They are:
 * Decision Trees.
 * Gradient Boosting (Ensemble Methods).
 * Support Vector Machine (SVM).
+
 By Comparing the three models, **Gradient Boosting** classifier was the best model according to the test F1-score and accuracy.
 ## Getting Started :rocket:
 ### Prerequisites
