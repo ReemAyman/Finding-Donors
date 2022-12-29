@@ -15,7 +15,7 @@ By Comparing the three models, **Gradient Boosting** classifier was the best mod
 3. Install the following libraries: [NumPy](https://pypi.org/project/numpy/), [Pandas](https://pypi.org/project/pandas/), [sci-kit learn](https://scikit-learn.org/stable/install.html), and [matplotlib](https://matplotlib.org/stable/users/installing/index.html).
 Or you can download and install [Anaconda](https://www.anaconda.com/products/distribution) and install the needed libraries directly.
 ### Starting with the project
-1. Clone the repo with: `git clone origin https://github.com/ReemAyman/Finding-Donors.git`.
+1. Clone the repo with: `git clone https://github.com/ReemAyman/Finding-Donors.git`.
 2. Go through the `finding_donors.ipynb` noteboook for further details about the project by using the command `jupyter notebook` in the project directory.
 
 ---
